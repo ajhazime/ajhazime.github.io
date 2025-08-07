@@ -117,7 +117,7 @@ GEM
     tzinfo-data (1.2024.2)
       tzinfo (>= 1.0.0)
     unicode-display_width (2.6.0)
-    uri (0.13.1)
+    uri (1.0.3)
     wdm (0.1.1)
     webrick (1.8.2)
 
@@ -133,7 +133,6 @@ DEPENDENCIES
   bundler (~> 2.5.15)
   csv
   faraday-retry
-  jekyll (~> 4.3.3)
   jekyll-feed (~> 0.17.0)
   jekyll-gist (~> 1.5.0)
   jekyll-paginate (~> 1.1.0)
@@ -144,6 +143,7 @@ DEPENDENCIES
   puma
   tzinfo (~> 2.0)
   tzinfo-data
+  uri (>= 1.0.3)
   wdm (~> 0.1.1)
   webrick (~> 1.7)
 
