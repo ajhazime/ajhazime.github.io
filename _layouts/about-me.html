@@ -28,7 +28,7 @@ layout: default
         >
           <i class="fab fa-facebook-f"></i>
         </a>
-        {% endif %} {% if site.instagram_username %}
+        {% endif %} {% if site.instagram_username == true%}
         <a
           class="social-link"
           href="http://instagram.com/{{ site.instagram_username }}"
@@ -99,7 +99,7 @@ layout: default
       {%- include author_skills.html -%}
     </div>
 
-    {% if site.wakatime_username %}
+    {% if site.wakatime_username == true %}
     <div class="card">
       <h1>Coding Activity</h1>
 
