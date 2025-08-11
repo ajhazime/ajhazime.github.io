@@ -9,7 +9,8 @@
 # keywords: using netlify cms with devlopr-jekyll, devlopr jekyll netlify cms, how to use netlify cms
 # permalink: /blog/using-netlify-cms/
 ---
-## Hello World
+
+# Hello World
 
 This page is a demo that shows everything you can do inside blog posts. Hi !
 

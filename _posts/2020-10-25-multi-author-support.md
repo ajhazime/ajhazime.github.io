@@ -11,7 +11,7 @@
 # permalink: /blog/added-multi-author-support/
 ---
 
-## Now Multiple Authors Can Create Articles:
+# Now Multiple Authors Can Create Articles:
 
 You can now create or collaborate with multiple authors,Especially when you are working with teams. Each author will have a unique page of her written articles also her profile widget in Articles written by his/her.
 

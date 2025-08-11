@@ -12,7 +12,7 @@ usemathjax: false
 permalink: /blog/adding-categories-tags-in-posts/
 ---
 
-## Adding Multiple Categories in Posts
+# Adding Multiple Categories in Posts
 
 To add categories in blog posts all you have to do is add a **category** key with category values in frontmatter of the post :
 
