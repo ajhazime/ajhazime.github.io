@@ -57,7 +57,7 @@ author_education_details:
 
 # Projects
 author_project_details:
-  - project_thumbnail: usc_logo_100x100.png
+  - project_thumbnail: 
     project_title: Machine Learning Research
     project_description: Quantifying political bias for LLM summaries 
     project_url: 
